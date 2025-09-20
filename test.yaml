@@ -1,0 +1,9 @@
+user_id: 42
+name: Example User
+active: true
+roles:
+  - reader
+  - tester
+notes: |-
+  Line one
+  Line two

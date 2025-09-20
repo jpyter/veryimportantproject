@@ -1,0 +1,10 @@
+<user>
+  <user_id>42</user_id>
+  <name>Example User</name>
+  <active>true</active>
+  <roles>
+    <role>reader</role>
+    <role>tester</role>
+  </roles>
+  <notes>Line one&#10;Line two</notes>
+</user>

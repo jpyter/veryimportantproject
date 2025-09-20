@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "name": "Test User",
+  "email": "test.user@example.com",
+  "isActive": true,
+  "roles": ["admin", "editor"],
+  "profile": {
+    "age": 29,
+    "country": "USA",
+    "preferences": {
+      "theme": "dark",
+      "notifications": true
+    }
+  },
+  "tags": [
+    {"id": 101, "label": "beta"},
+    {"id": 102, "label": "internal"}
+  ]
+}
